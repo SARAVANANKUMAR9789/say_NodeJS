@@ -1,0 +1,19 @@
+{
+  "name": "noad-js-fill-system",
+  "version": "1.0.0",
+  "description": "NodeJS File system ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Filesyatem"
+  ],
+  "author": "saravnana",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
